@@ -1,0 +1,19 @@
+{
+  "xp": 0,
+  "attack": 2,
+  "dodge": 1,
+  "health": 1,
+  "armour": 2,
+  "money": 0,
+  "name": "test",
+  "age": "t",
+  "race": "t",
+  "hairStyle": "t",
+  "hairColour": "t",
+  "eyeColour": "t",
+  "weapon": "",
+  "charm": "",
+  "bag": [
+    "0g"
+  ]
+}

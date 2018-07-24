@@ -1,0 +1,98 @@
+{
+  "xp": 0,
+  "intelligence": 3,
+  "charisma": 0,
+  "health": 2,
+  "luck": 1,
+  "money": 0,
+  "status": "",
+  "attack": 0,
+  "defence": 0,
+  "name": "jack",
+  "age": "21",
+  "race": "human",
+  "hairStyle": "long",
+  "hairColour": "red",
+  "eyeColour": "brown",
+  "weapon": {
+    "weaponType": "keyboard",
+    "attack": 1,
+    "speed": 1,
+    "sell": 1,
+    "buy": 0
+  },
+  "armour": {
+    "helmet": {
+      "name": "none",
+      "defence": 0,
+      "dodge": 0,
+      "sell": 1,
+      "buy": 0
+    },
+    "chest": {
+      "name": "none",
+      "defence": 0,
+      "dodge": 0,
+      "sell": 1,
+      "buy": 0
+    },
+    "gloves": {
+      "name": "none",
+      "defence": 0,
+      "dodge": 0,
+      "sell": 1,
+      "buy": 0
+    },
+    "legs": {
+      "name": "none",
+      "defence": 0,
+      "dodge": 0,
+      "sell": 1,
+      "buy": 0
+    },
+    "boots": {
+      "name": "none",
+      "defence": 0,
+      "dodge": 0,
+      "sell": 1,
+      "buy": 0
+    }
+  },
+  "skills": [
+    {
+      "name": "Fireball",
+      "damage": 10,
+      "effect": "",
+      "effectTurns": 0
+    },
+    {
+      "name": "Fireball",
+      "damage": 10,
+      "effect": "",
+      "effectTurns": 0
+    },
+    {
+      "name": "Fireball",
+      "damage": 10,
+      "effect": "",
+      "effectTurns": 0
+    },
+    {
+      "name": "Fireball",
+      "damage": 10,
+      "effect": "",
+      "effectTurns": 0
+    }
+  ],
+  "charm": "",
+  "bag": [
+    {
+      "name": "Cracked mirror",
+      "description": "",
+      "isTrap": false,
+      "isMagicItem": false,
+      "sell": 1,
+      "buy": 0
+    }
+  ]
+}
